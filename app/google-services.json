@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845268265991",
+    "project_id": "ai-camera-e4e2f",
+    "storage_bucket": "ai-camera-e4e2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845268265991:android:bbd9bd81c14cf427128ea2",
+        "android_client_info": {
+          "package_name": "com.example.aicamera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcN13N-yguuJ2lAxZ32aSJUrJpvqute6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
